@@ -1,0 +1,5 @@
+package view
+
+enum class Message {
+    REQUEST,INVALID_DATA,INVALID_OPTION,EXIT,REMOVE,CREATE
+}
